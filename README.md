@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Screenshot 2026-08-07 050239.png" width="180" alt="DNA.AI Logo">
+   <img src="app-icon.png" width="180" alt="DNA.AI Logo">
 </p>
 
 <h1 align="center">🧬 DNA.AI</h1>
