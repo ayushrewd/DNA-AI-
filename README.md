@@ -2,72 +2,152 @@
 
 # 🧬 DNA.AI
 
-### *The Next Generation of Desktop Intelligence.*
+### **Artificial Intelligence Operating System**
 
-*A futuristic AI desktop assistant built to redefine how humans interact with computers.*
+### *Desktop Intelligence. Reimagined.*
 
-<img src="./assets/banner.png" width="100%" />
+<p align="center">
+<img src="./assets/images/app-icon.png" width="160">
+</p>
 
-![Version](https://img.shields.io/badge/version-v17.17-blue?style=for-the-badge)
-![Platform](https://img.shields.io/badge/platform-Windows-black?style=for-the-badge)
-![Electron](https://img.shields.io/badge/Electron-Latest-47848F?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Powered-00E5FF?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge)
+![Desktop](https://img.shields.io/badge/Desktop-Electron-47848F?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-v17.17-00E5FF?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-00C853?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
 
-### ⚡ "This isn't another chatbot. This is your desktop operating companion."
+---
+
+### **Not just another AI chatbot.**
+
+### **A futuristic desktop operating companion built for voice, automation, and intelligent computing.**
+
+⭐ **If you enjoy this project, consider giving it a Star.**
 
 </div>
 
 ---
 
-# 🚀 What is DNA.AI?
+# 🚀 Overview
 
-DNA.AI is a futuristic desktop AI assistant designed to feel like an operating system rather than a chat application.
+DNA.AI is a futuristic desktop AI assistant designed to transform traditional computer interaction into an intelligent operating experience.
 
-It combines
+Instead of functioning as a simple chatbot, DNA.AI combines voice interaction, desktop automation, intelligent intent routing, and a cyber-inspired interface into a unified desktop companion.
 
-- 🎙 Natural Voice Conversations
-- 🧠 Intelligent Command Routing
-- ⚡ Instant Desktop Automation
-- 🎨 Premium Sci-Fi Interface
-- 🖥 Native Windows Integration
-- 🔮 Real-Time Interactive HUD
+Its objective is simple:
 
-into one seamless experience.
+> **Make interacting with your computer feel as natural as talking to another person.**
 
 ---
 
-# 🎥 Preview
+# 🖥 DNA.AI Command Center
 
-> Coming Soon
+<p align="center">
 
-```
-[ Screenshot ]
-[ GIF ]
-[ Demo Video ]
-```
+<img src="./assets/images/main-ui.png" width="100%">
+
+</p>
+
+The Command Center acts as the central operating interface of DNA.AI.
+
+It provides a futuristic HUD displaying the current AI state while offering quick access to system modules and desktop controls.
+
+### Included Modules
+
+- 🎙 Voice Engine
+- 👁 Vision System
+- 🧠 NLP Processor
+- 💾 Memory Core
+- 🤖 Learning Model
+- ⚡ Desktop Command Engine
+- 📈 Live System Diagnostics
+- 🌐 Network Status
+- 📊 Activity Monitoring
+
+---
+
+# 🔵 DNA Orb
+
+<p align="center">
+
+<img src="./assets/images/dna-orb.png" width="260">
+
+</p>
+
+## Your Floating AI Companion
+
+The **DNA Orb** is the always-available floating companion of DNA.AI.
+
+Rather than forcing users to constantly open the main application, the Orb allows quick interactions directly from the desktop.
+
+It represents the living presence of DNA.AI while remaining lightweight and unobtrusive.
+
+### DNA Orb Features
+
+- 🎙 Voice Listening
+- ⚡ Instant Responses
+- 💬 Quick Desktop Interaction
+- 🔔 Smart Notifications
+- 🧠 AI Processing Indicator
+- 🚀 Lightweight Overlay
+- 📍 Always-on-top Companion
+
+The Orb appears whenever DNA.AI is actively listening, processing, or responding.
+
+---
+
+# 🧠 DNA Core
+
+<p align="center">
+
+<img src="./assets/images/app-icon.png" width="180">
+
+</p>
+
+The **DNA Core** represents the intelligence engine powering the entire system.
+
+Every command, conversation, desktop action, and AI response originates from this central processing unit.
+
+The glowing concentric rings symbolize
+
+- Artificial Intelligence
+- Continuous Learning
+- Neural Processing
+- Digital Evolution
+- Intelligent Computing
+
+The DNA Core serves as the visual identity of DNA.AI across
+
+- Desktop
+- Taskbar
+- Notifications
+- Executable
+- Command Center
+- DNA Orb
+
+creating one consistent product experience.
 
 ---
 
 # ✨ Features
 
-## 🎙 Voice Assistant
+## 🎙 Voice Intelligence
 
-- Natural conversations
-- Female AI voice
-- Wake interaction
-- Smart responses
-- Voice output
+- Natural Voice Conversations
+- Speech Recognition
+- Speech Synthesis
+- Wake Word Support
+- Context-Aware Responses
 
 ---
 
-## 🖥 Desktop Automation
+## ⚡ Desktop Automation
 
 Control your computer naturally.
 
 Examples
 
-```
+```text
 Open Chrome
 
 Open VS Code
@@ -80,19 +160,20 @@ Open Calculator
 
 Shutdown PC
 
-Restart System
+Restart Computer
 
+Open Files
+
+Search Documents
 ```
 
 ---
 
-## 🧠 Intelligent Routing
+## 🧠 Intelligent Intent Routing
 
-DNA.AI understands the intent before responding.
+DNA.AI determines the user's intention before responding.
 
-Instead of treating every input like a chatbot…
-
-It decides whether to
+Instead of treating every message like a chatbot, it intelligently decides whether it should
 
 - Answer
 - Execute
@@ -100,158 +181,115 @@ It decides whether to
 - Launch
 - Assist
 
+making desktop interaction feel much more natural.
+
 ---
 
-## 🌌 Premium UI
+## 🌌 Premium Interface
 
-Inspired by
+Inspired by futuristic operating systems.
 
-- Iron Man
-- JARVIS
-- Sci-Fi HUDs
-- Modern Operating Systems
+Features include
 
-Features
-
-✔ Dark Premium Theme
-
-✔ Cyan Glow Effects
-
-✔ Animated Rings
-
-✔ Interactive HUD
-
-✔ Floating Assistant Orb
-
-✔ Ignition Style Activation
-
-✔ Responsive Interface
+- Cyberpunk HUD
+- Interactive Dashboard
+- Animated DNA Core
+- Floating DNA Orb
+- Neon Cyan Visual Language
+- Live Diagnostics
+- Responsive Desktop Layout
 
 ---
 
 ## ⚡ Performance
 
-Designed to feel instant.
+DNA.AI has been designed with performance as a priority.
 
 - Lightweight
-- Fast startup
-- Minimal memory usage
-- Smooth animations
-- Optimized rendering
+- Fast Startup
+- Smooth Animations
+- Minimal Resource Usage
+- Native Desktop Experience
 
 ---
 
-# 🧬 DNA Ignition System
+# 🧬 DNA.AI Architecture
 
-Unlike traditional assistants…
+```text
+                     USER
 
-DNA.AI starts in a dormant state.
-
-```
-Launch DNA.AI
-
-↓
-
-Dormant Mode
-
-↓
-
-Click DNA.AI Core
-
-↓
-
-Power Sequence
-
-↓
-
-HUD Activation
-
-↓
-
-AI Online
-```
-
-Every interaction begins like powering on a futuristic operating system.
-
----
-
-# 🧠 Architecture
-
-```
-                User
-
-                  │
-
-                  ▼
+                       │
 
         Voice / Keyboard Input
 
-                  │
+                       │
 
-                  ▼
+                       ▼
 
-         Intent Recognition
+             Intent Recognition
 
-                  │
+                       │
 
-      ┌───────────┴────────────┐
+      ┌─────────────────────────────────┐
 
-      ▼                        ▼
+      ▼                                 ▼
 
-Desktop Commands          AI Conversation
+Desktop Automation              AI Conversation
 
-      ▼                        ▼
+      ▼                                 ▼
 
- Windows APIs           Response Engine
+ Windows APIs                  Response Engine
 
-      ▼                        ▼
+      └─────────────────────────────────┘
 
-      └───────────┬────────────┘
+                       ▼
 
-                  ▼
+                  DNA Core
 
-             DNA.AI Core
+                       ▼
 
-                  ▼
-
-          Premium HUD Output
+             DNA Orb + HUD Output
 ```
 
 ---
 
-# 📦 Tech Stack
+# 🛠 Technology Stack
 
-### Desktop
+## Desktop
 
 - Electron
 
-### Frontend
+## Frontend
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 
-### Backend
+## Backend
 
 - Node.js
 
-### AI
+## AI
 
-- Intelligent Routing
-- Modular Assistant Core
+- Intent Routing
+- Voice Processing
+- Modular Assistant Engine
 
 ---
 
-# 📁 Project Structure
+# 📂 Project Structure
 
-```
-DNA.AI
+```text
+DNA-AI
 
+├── assets/
+│   └── images/
+│
 ├── electron/
 ├── src/
 ├── voice/
-├── assets/
 ├── scripts/
+│
 ├── main.cjs
 ├── preload.cjs
 ├── intent-router.cjs
@@ -263,25 +301,31 @@ DNA.AI
 
 # 🚀 Installation
 
+Clone the repository
+
 ```bash
 git clone https://github.com/YOUR_USERNAME/DNA-AI.git
 ```
+
+Move into the project
 
 ```bash
 cd DNA-AI
 ```
 
+Install dependencies
+
 ```bash
 npm install
 ```
+
+Run the application
 
 ```bash
 npm run dev
 ```
 
----
-
-# 🖥 Build
+Build
 
 ```bash
 npm run build
@@ -289,75 +333,54 @@ npm run build
 
 ---
 
-# 🎯 Vision
-
-DNA.AI isn't being built to become another chatbot.
-
-The goal is to create an intelligent desktop operating companion capable of understanding humans, automating workflows, and making everyday computing more natural.
-
-This project is built with long-term evolution in mind.
-
----
-
 # 🛣 Roadmap
 
-### Phase 1
+## Current
 
-- ✅ Voice Assistant
-- ✅ Premium HUD
+- ✅ Desktop Interface
+- ✅ DNA Core
+- ✅ DNA Orb
+- ✅ Voice Engine
 - ✅ Desktop Commands
-- ✅ Ignition System
+- ✅ Intent Routing
 
 ---
 
-### Phase 2
+## Upcoming
 
-- 🔄 Memory System
-- 🔄 File Understanding
-- 🔄 Smart Context
-- 🔄 Better Intent Engine
-
----
-
-### Phase 3
-
-- 🔄 Plugin Ecosystem
-- 🔄 Multi-Agent Support
-- 🔄 Cloud Sync
-- 🔄 Cross Device
-
----
-
-### Phase 4
-
-- 🔄 DNA.AI Pro
-- 🔄 Licensing
-- 🔄 Admin Dashboard
-- 🔄 Analytics
+- Memory System
+- Smarter Context Awareness
+- Plugin Ecosystem
+- Cross Device Support
+- Cloud Synchronization
+- DNA.AI Pro
+- Multi-Agent Workflows
 
 ---
 
 # 🤝 Contributing
 
-Pull Requests are welcome.
+Contributions are welcome.
 
-For major changes,
-
-please open an issue first to discuss what you would like to improve.
+If you would like to improve DNA.AI, please open an Issue first to discuss your proposed changes.
 
 ---
 
-# 📄 License
+# 📜 License
 
-This repository is provided for learning, collaboration, and showcasing the project.
+This project is released under the MIT License.
 
-Please respect the project's branding and attribution.
+Please retain attribution if you build upon this work.
 
 ---
 
-# 💙 Acknowledgements
+# 👨‍💻 Author
 
-Thanks to the amazing open-source community and every developer building the future of AI.
+## Ayush Yadav
+
+**Founder — DNA CODERS**
+
+Building intelligent desktop experiences for the future.
 
 ---
 
@@ -365,22 +388,14 @@ Thanks to the amazing open-source community and every developer building the fut
 
 # 🧬 DNA.AI
 
-### **Not Just Artificial Intelligence.**
+### **Powered by DNA Core**
 
-### **Desktop Intelligence.**
+### **Assisted by DNA Orb**
 
 ---
 
-### Designed & Developed by
+### **Desktop Intelligence. Reimagined.**
 
-# **Ayush Yadav**
-
-### Founder — DNA CODERS
-
-*"Building the future, one intelligent system at a time."*
-
-⭐ **If you like this project, consider giving it a Star.**
-
-It helps the project grow and motivates future development.
+⭐ If you like this project, consider giving it a Star.
 
 </div>
