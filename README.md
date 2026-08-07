@@ -378,7 +378,7 @@ Please retain attribution if you build upon this work.
 
 ## Ayush Yadav
 
-**Founder — DNA CODERS**
+**Co-Founder — DNA CODERS || AI/ML ENGINEER AT SKY O&P RESEARCH CENTRE**
 
 Building intelligent desktop experiences for the future.
 
