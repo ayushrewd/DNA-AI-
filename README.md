@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/app-icon.png" width="180" alt="DNA.AI Logo">
+  <img src="Screenshot 2026-08-07 050239.png" width="180" alt="DNA.AI Logo">
 </p>
 
 <h1 align="center">🧬 DNA.AI</h1>
@@ -31,7 +31,7 @@ Unlike a traditional chatbot, DNA.AI combines **Voice Intelligence, Desktop Auto
 # 🖥 DNA.AI Command Center
 
 <p align="center">
-<img src="assets/main-ui.png" width="100%" alt="DNA.AI Command Center">
+<img src="Screenshot 2026-08-07 050043.png" width="100%" alt="DNA.AI Command Center">
 </p>
 
 The **Command Center** is the heart of DNA.AI.
@@ -53,7 +53,7 @@ It provides a premium futuristic dashboard featuring:
 # 🔵 DNA Orb
 
 <p align="center">
-<img src="assets/dna-orb.png" width="330" alt="DNA Orb">
+<img src="Screenshot 2026-08-07 051022.png" width="330" alt="DNA Orb">
 </p>
 
 The **DNA Orb** is the floating desktop companion of DNA.AI.
